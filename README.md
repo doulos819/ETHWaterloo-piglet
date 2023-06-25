@@ -3,6 +3,8 @@
 
 TL;DR: https://app.unlock-protocol.com/checkout?id=39b62ad3-07f2-442d-b2ef-d136d6a83374
 
+Tweet: https://twitter.com/chloethedev/status/1672933661165887491
+
 We start with [Unlock Protocol stuffs](https://app.unlock-protocol.com/checkout?id=39b62ad3-07f2-442d-b2ef-d136d6a83374) on Polygon.
 
 [NEAR BOS Code](https://bos.gg/#/mob.near/widget/WidgetSource?src=chloe.near/widget/piglet) connecting Polygon backend to NEAR front end.
